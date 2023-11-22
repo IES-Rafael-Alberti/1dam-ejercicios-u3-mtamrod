@@ -17,7 +17,7 @@ def crear_conjuntos(frutas1, frutas2):
     set_frutas1 = set(frutas1) 
     set_frutas2 = set(frutas2)
     
-    return set_frutas1, set_frutas2
+    return set_frutas1
 
 def main():
     frutas1 = ["manzana", "pera", "naranja", "plátano", "uva"]
